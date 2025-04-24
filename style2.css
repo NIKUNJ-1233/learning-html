@@ -1,6 +1,6 @@
 body{
+background-color: pink;
 
-    background-color: aqua;
 }
 
 .nike2{
@@ -10,11 +10,14 @@ body{
     /*text-decoration: underline;*/
 text-decoration-style: double;
 text-shadow: 13px 14px 5px rgb(147, 135, 222);
-
+text-align: center;
 
 }
 .nike3{
     background-color: brown;
-    text-shadow: 14px 52px 5px blueviolet;
+    font-weight:bold ;
 }
 
+.nike4{
+ font-family: Verdana;
+}
