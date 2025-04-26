@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+.part1{
+    background-color: rgb(112, 183, 213);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border: 2PX solid black;
+}
+
+.part1 ul {
+display: flex;
+gap: 40px;
+list-style: none;
+
+}
+.part1 li{
+    background-color: rgb(238, 0, 255);
+    color: hwb(64 16% 21%);
+    padding: 8px;
+    border-radius: 5px;
+}

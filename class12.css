@@ -1,0 +1,12 @@
+.parent{
+    display: flex;
+    justify-content: space-around;
+    padding: auto;
+}
+
+
+.part1{
+
+    display: flex;
+    justify-content: space-around;
+}
